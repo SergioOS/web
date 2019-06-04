@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+#body-sede{
+  background-color: #FFF390;
+}
+
+#body-titulo{
+  background-color: #FF0000;
+}
+
+#body-menu{
+  background-color: #FF907F;
+}
+
+#body-derechos{
+  background-color: #FA5840;
+}
+
+
+#body-contenido{
+  background-color: #F2FB94;
+}
+
+
+#body-comida{
+  background-color: #FF85C0;
+}
+
+#body-ciudades{
+  background-color: #FFDC85;
+}
+
+#body-cultura{
+  background-color: #94FB97;
+}
+
+#body-encuesta{
+  background-color: #94F0FB;
+}
+
+@font-face {
+  font-family: "Prueba";
+  src: url("font-1.ttf");
+  
+}
+
+.texto-1 {
+  font-family: "Prueba", cursive;
+  font-size: 150%;
+  
+}
+
+@font-face {
+  font-family: "Prueba-2";
+  src: url("font-2.ttf");
+}
+
+.texto-2 {
+  font-family: "Prueba-2", cursive;
+  font-size: 100%;
+}
+
+@font-face {
+  font-family: "Prueba-3";
+  src: url("font-3.ttf");
+}
+
+.texto-3 {
+  font-family: "Prueba-3", cursive;
+  font-size: 100%;
+}
+
+@font-face {
+  font-family: "Prueba-4";
+  src: url("font-4.ttf");
+}
+
+.texto-4 {
+  font-family: "Prueba-4", cursive;
+  font-size: 100%;
+}
